@@ -9,7 +9,6 @@
  "custom": 1, 
  "docstatus": 0, 
  "doctype": "DocType", 
- "document_type": "Document", 
  "editable_grid": 1, 
  "engine": "InnoDB", 
  "fields": [
