@@ -8,8 +8,7 @@
  "creation": "2017-09-22 11:38:51.442354", 
  "custom": 1, 
  "docstatus": 0, 
- "doctype": "DocType", 
- "document_type": "Document", 
+ "doctype": "DocType",  
  "editable_grid": 1, 
  "engine": "InnoDB", 
  "fields": [
