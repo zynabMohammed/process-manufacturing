@@ -6,7 +6,7 @@
  "autoname": "field:department", 
  "beta": 0, 
  "creation": "2017-09-19 11:44:20.093380", 
- "custom": 0, 
+ "custom": 1, 
  "docstatus": 0, 
  "doctype": "DocType", 
  "document_type": "Setup", 
@@ -246,7 +246,7 @@
  "permissions": [
   {
    "amend": 0, 
-   "apply_user_permissions": 0, 
+   "apply_user_permissions": 1, 
    "cancel": 0, 
    "create": 1, 
    "delete": 1, 
@@ -259,7 +259,7 @@
    "read": 1, 
    "report": 1, 
    "role": "System Manager", 
-   "set_user_permissions": 0, 
+   "set_user_permissions": 1, 
    "share": 1, 
    "submit": 0, 
    "write": 1
@@ -268,7 +268,7 @@
  "quick_entry": 0, 
  "read_only": 0, 
  "read_only_onload": 0, 
- "restrict_to_domain": "Manufacturing", 
+ "restrict_to_domain": "", 
  "search_fields": "department", 
  "show_name_in_global_search": 0, 
  "sort_field": "modified", 
